@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClassScheduleFinal</string>
+    <string name="title_day_detail">Day Detail</string>
+    <string name="title_activity_create_schedule">CreateScheduleActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="KEY_VALUE">KEY_PLACE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timeConflict">Time Conflict!</string>
+    <string name="confirmation">Confirmation</string>
+
+</resources>
